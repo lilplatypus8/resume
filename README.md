@@ -1,2 +1,2 @@
 # resume
-My resume created using Typst
+### --> [my resume](https://github.com/lilplatypus8/resume/resume.pdf) <--
