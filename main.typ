@@ -130,4 +130,4 @@
 == Achievements
 - #generic-one-by-two(left: "Wright State Honors Program Competitive Scholarship", right: dates-helper(start-date: "Aug 2022", end-date: "Apr 2025"))
 - #generic-one-by-two(left: "College of Science and Mathematics Dean's List", right: "Fall 2024")
-- #generic-one-by-two(left: "College of Science and Mathematics Dean's List", right: dates-helper(start-date: "Spring 2025", end-date: "Present"))
+- #generic-one-by-two(left: "College of Engineering and Computer Science Dean's List", right: dates-helper(start-date: "Spring 2025", end-date: "Present"))
