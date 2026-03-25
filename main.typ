@@ -4,7 +4,7 @@
 #let location = "Dayton, OH"
 #let email = "jmschmitz8@gmail.com"
 #let github = "github.com/lilplatypus8"
-#let linkedin = "linkedin.com/in/josiah-schmitz-580942320"
+#let linkedin = "linkedin.com/in/josiah-schmitz04"
 
 #show: resume.with(
   author: name,
