@@ -57,7 +57,7 @@
     grad-date: "May 2026",                                   
     uni: "Wright State University",                         
     location: "Dayton, OH ",                                       
-    gpa: "3.842"                                        
+    gpa: "3.857"                                        
   )[
     - Minor in Mathematics
   ]
@@ -66,7 +66,7 @@
     grad-date: "May 2027",
     uni: "Wright State University",
     location: "Dayton, OH",
-    gpa: "3.842"                                        
+    gpa: "4.00"                                        
   )[]
 ]
 
@@ -123,9 +123,21 @@
 - Assisted with the development of both the Python-based back-end and HTML/CSS-based front-end
 - Learned to communicate and divide responsibilities with team members and document progress with weekly reports
 
+#project(
+  name: "Death Star Plans Transmitter",
+  dates: dates-helper(start-date: "Sep 2025", end-date: "Apr 2026"),  
+)
+- Worked on a five-person team of college students for a Senior Project course
+- Engineered a system that could detect, send, and receive a series of JPEGs without WiFi, Bluetooth, or a wired connection
+- System used machine learning to detect 10 correct images out of a batch of 100 total images
+- System also sent and received the correct images by streaming a series of QR codes encoded with the image data
+- Images were displayed after being received by a camera on a custom website developed with Google Firebase
+- Assisted with the integration of the QR streaming software and setup of the website back-end
+- Documented the system's functionality as well as its requirements and constraints on Google Docs and PowerPoint
+
 == Skills
 - *Programming Languages*: Java, Python, C/C++, Bash, HTML
-- *Technologies*: VSCode, Eclipse, git, UNIX, Docker, Vim, Java Swing, SOLIDWORKS
+- *Technologies*: VSCode, Eclipse, git, UNIX, Docker, Vim, Java Swing, SOLIDWORKS, Microsoft PowerPoint
 
 == Achievements
 - #generic-one-by-two(left: "Wright State Honors Program Competitive Scholarship", right: dates-helper(start-date: "Aug 2022", end-date: "Apr 2025"))
